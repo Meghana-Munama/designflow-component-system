@@ -1,7 +1,7 @@
-import Navbar from './components/Navbar.jsx';
-import Button from './components/Button.jsx';
-import Card from './components/Card.jsx';
-import InputField from './components/InputField.jsx';
+import Navbar from './Navbar.jsx';
+import Button from './Button.jsx';
+import Card from './Card.jsx';
+import InputField from './InputField.jsx';
 
 export default function App() {
   return (
