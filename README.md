@@ -25,16 +25,18 @@ The goal of this project was to improve frontend maintainability and scalability
 
 ## Folder Structure
 ```bash
-src/
- ┣ components/
- ┃ ┣ Button.jsx
- ┃ ┣ Card.jsx
- ┃ ┣ Navbar.jsx
- ┃ ┗ InputField.jsx
- ┣ styles/
- ┃ ┗ index.css
+designflow-component-system/
  ┣ App.jsx
- ┗ main.jsx
+ ┣ Button.jsx
+ ┣ Card.jsx
+ ┣ InputField.jsx
+ ┣ Navbar.jsx
+ ┣ main.jsx
+ ┣ index.css
+ ┣ package.json
+ ┣ postcss.config.js
+ ┣ tailwind.config.js
+ ┗ README.md
 ```
 
 ## How to Run
